@@ -59,7 +59,7 @@ $model = ($_GET['model']);
 
 // Add your OpenAI API Key below  
 $chat = new ChatGPT([
-    'api_key' => 'OPENAI_API_KEY_GOES_HERE',	
+    'api_key' => 'sk-proj-YyO6chZu2jpcnhKwX0LqT3BlbkFJQSA2Q3WzDrLR6MSdPAGg',	
 ]);
 
 
